@@ -16,8 +16,7 @@ public class reverse_number {
 
         }
 
-
-//                 OR
+//               OR
 
 
 //        int ans =0;
