@@ -5,7 +5,7 @@ public class Ruppe_to_Usd {
         Scanner input=new Scanner(System.in);
         System.out.print("Enter dollor : ");
         float dollor=input.nextFloat();
-
+        
 
         float ruppe=dollor*79.43f;
         System.out.println(dollor + " dollor is equal to "+ ruppe + " ruppe");
