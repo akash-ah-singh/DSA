@@ -17,6 +17,5 @@ public class Simple_intrest {
 
 
 
-
     }
 }
