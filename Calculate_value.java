@@ -35,8 +35,5 @@ public class Calculate_value {
 
 
 
-
-
-
     }
 }
