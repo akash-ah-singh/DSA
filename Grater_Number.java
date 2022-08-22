@@ -20,15 +20,5 @@ public class Grater_Number {
 
 
 
-
-
-
-
-
-
-
-
-
-
     }
 }
