@@ -14,5 +14,6 @@ public class Even_odd {
             System.out.println("odd number ");
         }
 
+        
     }
 }
