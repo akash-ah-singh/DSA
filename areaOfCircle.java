@@ -14,10 +14,5 @@ public class areaOfCircle {
 
 
 
-
-
-
-
-
     }
 }
