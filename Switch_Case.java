@@ -63,8 +63,6 @@ public class Switch_Case {
 
 
 
-
-
 //        switch (Day) {
 //                case 1 -> System.out.println("Monday");
 //                case 2 -> System.out.println("tuesday");
