@@ -10,5 +10,6 @@ public class areaOfEquilateralTriangle {
         float Area=(1.73f * (side * side))/4;
         System.out.println(Area);
 
+        
     }
 }
