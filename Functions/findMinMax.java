@@ -8,7 +8,6 @@ public class productOfTwoNumber {
         return product;
 
     }
-
     
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
