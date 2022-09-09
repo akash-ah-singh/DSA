@@ -8,8 +8,6 @@ public class areaOfEquilateralTriangle {
         float side=input.nextFloat();
 
         float Area=(1.73f * (side * side))/4;
-        System.out.println(Area);
-
-        
+        System.out.println(Area);       
     }
 }
