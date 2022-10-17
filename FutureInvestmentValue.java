@@ -16,13 +16,5 @@ public class FutureInvestmentValue {
         System.out.println("Future value will be : "+FV);
 
 
-
-
-
-
-
-
-
-
     }
 }
