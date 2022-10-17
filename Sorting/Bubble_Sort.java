@@ -9,7 +9,6 @@ public class Bubble_sort {
 
     }
 
-
     static void BS(int[] nums){
 
         for (int i = 0; i < nums.length ; i++) {
